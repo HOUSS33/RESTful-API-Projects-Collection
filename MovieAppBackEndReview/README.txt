@@ -6,6 +6,4 @@ This RESTful API allows you to manage movie reviews. You can perform CRUD (Creat
 
 ## Base URL
 
-The base URL for accessing the API is: http://localhost:8080/api/v1
-## Endpoints
-
+The base URL for accessing the API is:
